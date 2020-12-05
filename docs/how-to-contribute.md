@@ -1,9 +1,15 @@
 # How to contribute
 We're searching for people who are passionate about using technology to create a shared reality that is free of disinformation.
 
-We're still searching for a problem and solution that creats deep and compelling value. 
+We're still searching for a problem and solution that creates deep and compelling value. 
 
-To contribute, read through the docs on this page, and then either [open an issue on Githb](https://github.com/owenbrown/istrue/issues) describing the changes you'd like to see, or edit our website directly.
+To prioritize and track our work, we use GitHub issues. Check out [our issue board](https://github.com/owenbrown/istrue/issues).
+
+If an issue exists describing the work you're interested in doing, consider commenting in issue. When you've completed the work, put in a pull request.
+
+If there's something new you'd like to add, create an issue.
+
+You're invited to also edit our website directly, without using an issue.
 
 ### How to I edit the website?
 Our website is generated from files in our GitHub repo. To update the website, you simply need to edit the files. To do so:
