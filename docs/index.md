@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## IsTrue
+_Start with a hook. Write something compelling or no-one will read this._
 
-You can use the [editor on GitHub](https://github.com/owenbrown/istrue/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Is True facilitates distributed fact checking for individuals and organizations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does this work?
 
-### Markdown
+During account creation, new users select people and organizations who they trust. This creates the user's _Trust Network_.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A user install a broswer extension. Each time a user visits a domain, browser extension queries the users Trust Network to look for annotations about the specific article and the source of the article. 
 
-```markdown
-Syntax highlighted code block
+### What is a Trust Network?
+The Trust Network is a list of people and organizations that a users trusts, and the people and organizations that those people trust.
+For example, I'm a user. I trust my brother. My brother trusts the New York Times. Therefore, the New York Times is in my Trut Graph. When I visit the New York Times website, Is True indicates that they are in my Trust Network. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Transmitting each page URL invades users privacy
+The initial implementation is focused on simplicity. New ideas are fragile, and it's important that we create a proof-of-concept as quickly as possible. We respect users privacy security and will find a way protect both.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/owenbrown/istrue/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
