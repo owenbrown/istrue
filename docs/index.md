@@ -24,9 +24,10 @@ In the run up to the 2020 United States presidential election, I maintained a di
 
 I was frustrated that it took hours to produce this high-quarity research, but that research would only be read by one person. I wondered, how can our society survice this flood of dis-information, whn it takes hours to debunk fake news but only a few seconds to re-post a lie?
 
-### Next Steps
+### Make Something People Want
 I'm a software developer who loves building things, so my instinct is to build proof-of-concept. However, the product manager and former start-up founder in me knows that there are faster ways to determine whether this is worth working on.
 
-It's hard to *Make Something People Want*. I don't know if people want this or will use it. 
-
 This product solves two separate problems for two seperate people. It relies on a passionate 1% oy users who care enough about the truth to write clear, carefully researched reports about why a fake news should be viewed as such. It then also relies on the other 99% users actually wanting to know what is true. 
+
+### How to contribute
+Glad you asked! Check out our [how to contribute page](https://owenbrown.github.io/istrue/how-to-contribute).
