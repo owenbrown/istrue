@@ -1,5 +1,4 @@
-## IsTrue
-_Start with a hook. Write something compelling or no-one will read this._
+## Is True
 
 Is True facilitates distributed fact checking for individuals and organizations. 
 
