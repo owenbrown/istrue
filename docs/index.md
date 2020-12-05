@@ -18,7 +18,7 @@ The initial implementation is focused on simplicity. New ideas are fragile, and 
 
 ### Should this exist?
 I don't know. Between 90% and 99% of new software projects shouldn't exist, because they don't solve a deep a and compelling problem for anyone.
-I've [created a page](.need-approach-benetit-competition) to try to answer this question. 
+I've [created a page](need-approach-benefit-competition) to try to answer this question. 
 
 In the run up to the 2020 United States presidential election, I maintained a dialogue with a friend whose news sources were extremely different than mine. I spent many night reading and researching the articlse he sent me. Through careful analysis I as often able to show that the article was either a complete fabrication, or was carefully constructed to both be shared virally on social media while deliberatly leading its audience to believe something untrue.  
 
