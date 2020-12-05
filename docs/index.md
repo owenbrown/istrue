@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Is True
 
 Is True facilitates distributed fact checking for individuals and organizations. 
