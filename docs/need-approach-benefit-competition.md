@@ -18,5 +18,19 @@ Is True is a browser extension. When a user sign up, they select websites and so
 
 Then, when the person visits a website, Is True tells uses the Trust Nemork to tell the user whether the website or news source is trustworthy.
 
-For example, a user sees a post from New York Times on Twitter. When she visits the website, she sees that her brother, whom she trusts, trust the New York Times. 
+For example, a user sees a post from the mediacl journal The Lancet on Twitter. When she visits the website, she sees that her brother, whom she trusts, trust The Lancet. 
 
+She clicks a link to see why her brother trusts The Lancet.
+
+## Benifits
+Is True relies on user generated content, so it can scale at a speed fast enough to combat disinformation.
+
+Users who are enthusiastic about pointing out disinfomation now have a venue for thoughtfully annotating the news.
+
+The platform is completely neutral, and therefore safe from partisan demonization. Users remain in complete control of their Trust Graph. They can choose to trust The New York Times, or Fox News, or both. 
+
+Eventually, the mere absense of a trust on Is True will indicate that news is fake. When this occurs, it will become much more difficult to dessiminate disinformation. 
+
+Making the corect decision about which information to believe is the difference between life and death with regards to Covid-19, and 
+
+## Competitoin
