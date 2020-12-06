@@ -41,6 +41,8 @@ Eventually, the mere absence of trust on Is True will indicate that news is fake
 ## Competition
 Facebook and Twitter do not want to be in the position of checking facts. Ultimately, each company would like to avoid being regulated and has a moral obligation to step in. 
 
-Fact-checking is expensive and does not scale. 
+Fact-checking is expensive and there is no market for it, so there are few competitive organizations in the space.
 
 The current system does too little to penalize new sources of information or to punish lying. 
+
+There exists a number of other browser extensions that aim to detect fake news. Our next step, in understanding whether to pursue this idea, is to examine each of the most popular extensions and see why nobody is using them.
