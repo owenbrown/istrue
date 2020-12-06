@@ -1,4 +1,4 @@
-# Nead, Approach, Benefit, Competition 
+# Need, Approach, Benefit, Competition 
 This document exists to determine whether this project creates enough value to justify its existence.
 
 We'll update the document until either the project is killed or the project delivers demonstrable value to many users.
