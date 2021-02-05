@@ -9,22 +9,22 @@ We'll build an amazing Unicorn displays.
 ## Release 1.0 
 ### Target date: March 15
 Features:
-- Lime green with hints of lavendar
-- QR code reader 
+- Lime green with rose trim
 - Shouts obsecinities at people who don't look at at it
+- Displays this [text for the screen](./smart-screen-text.md)
 
-Action items:
-[] John to find out if Unicorns are boys or girls
-[] Pauline too determine feasability of future 
+### Action items:
+[] Kevin - Agree on HDMI vs Tin Cans 
+[] Pauline - Decide on 4k vs UHD 
 
 
 ## Release 1.1 
-### Target date: June 15, 2020\z
-_
-z- Replace 
+### Target date: June 15, 2020
+
 
 ## Release 1.2
 ### Target date: August 1, 2020
+- QR code reader 
 
 ## Key team members
 ### OnQ
