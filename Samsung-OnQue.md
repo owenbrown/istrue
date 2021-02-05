@@ -6,8 +6,8 @@ We want to sell more shit.
 ## Vision
 We'll build an amazing Unicorn displays.
 
-## Release 1.0 
-### Target date: March 15
+## Sprint 12
+### End date: Feb 6
 Features:
 - Lime green with rose trim
 - Shouts obsecinities at people who don't look at at it
@@ -17,13 +17,15 @@ Features:
 [] Kevin - Agree on HDMI vs Tin Cans 
 [] Pauline - Decide on 4k vs UHD 
 
+## Sprint 13
+### End date: Feb 20
+Ideas for consideration:
+- Glitter hooves
+- Scented hair gel
+- Wings!?
 
-## Release 1.1 
-### Target date: June 15, 2020
-
-
-## Release 1.2
-### Target date: August 1, 2020
+## Sprint 14
+### End date: March 4
 - QR code reader 
 
 ## Key team members
